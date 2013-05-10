@@ -1,5 +1,7 @@
 #Comment
-*.txt
+#*.txt
+tempfile.txt
+testing123.txt
 *.zip
 *.gz
 log/*.log
