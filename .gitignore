@@ -2,6 +2,7 @@
 #*.txt
 tempfile.txt
 tempfile2.txt
+tempfile3.txt
 testing123.txt
 *.zip
 *.gz
